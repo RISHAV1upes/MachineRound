@@ -1,0 +1,28 @@
+.container-fluid{
+  margin-top:20px;
+}
+.movie{
+  margin-top:10px;
+  margin-bottom:10px;
+  box-shadow: 1px 1px 1px 5px #f2f2f2;
+}
+.movie img{
+  width:100%;
+  height:200px;
+}
+.dropDown{
+  margin-left:5px;
+}
+.btn{
+  margin-bottom:10px;
+}
+.search{
+  margin-top:10px;
+  width:15%;
+}
+.genre-search-btn{
+  margin-top: 10px;
+}
+.genre-search-btn button{
+  margin-right:20px;
+}

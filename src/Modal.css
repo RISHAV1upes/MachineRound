@@ -1,0 +1,38 @@
+.info {
+  width: 750px;
+  background-color: #fff;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  backdrop-filter: blur(18px);
+  border:2px solid grey;
+}
+.info-heading {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  background-color: #b3ecff;
+}
+.info-heading h4 {
+  line-height: 80px;
+  margin-left: 10px;
+}
+.info-heading .cross {
+  margin-right: 10px;
+  margin-top: 20px;
+  border-radius: 20px;
+  height: 40px;
+}
+.info-body p{
+    margin-left:10px;
+    font-size:20px;
+}
+.info-footer {
+  height: 80px;
+  background-color: #b3ecff;
+}
+.info-footer  button {
+  margin-top:20px;
+  margin-right: 10px;
+}
